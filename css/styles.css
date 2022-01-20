@@ -1,5 +1,9 @@
 /* Babas Neue and Roboto fonts */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
 
 body{
     /* font-family: 'Bebas Neue', cursive; */
@@ -9,6 +13,9 @@ header{
     background-color: #FFFBF0;
     height: 650px;
 }
+/*------------------ 
+    style for utilities
+----------------------------- */
 .yellow-color{
     color: #FABE4C;
 }
@@ -19,6 +26,9 @@ header{
    background-color: #A4BC46;
 
 }
+/*------------------ 
+    style for Product Card
+----------------------------- */
 .card-main{
     width: 370px;
     border-radius: 20px;
