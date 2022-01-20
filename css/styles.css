@@ -5,3 +5,16 @@ body{
     /* font-family: 'Bebas Neue', cursive; */
     font-family: 'Roboto', sans-serif;
 }
+header{
+    background-color: #FFFBF0;
+}
+.yellow-color{
+    color: #FABE4C;
+}
+.banner-left a{
+    color: #FFFFFF;
+}
+.button-color{
+   background-color: #A4BC46;
+
+}
