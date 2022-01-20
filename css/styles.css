@@ -12,6 +12,9 @@ header{
 .yellow-color{
     color: #FABE4C;
 }
+.banner-left h1{
+    font-family: 'Bebas Neue', cursive;
+}
 .banner-left a{
     color: #FFFFFF;
 }
