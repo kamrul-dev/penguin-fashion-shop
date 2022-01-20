@@ -1,6 +1,7 @@
-/* Babas Neue fonts */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+/* Babas Neue and Roboto fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@500&display=swap');
 
 body{
-    font-family: 'Bebas Neue', cursive;
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Roboto', sans-serif;
 }
